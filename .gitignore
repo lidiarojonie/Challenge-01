@@ -1,0 +1,6 @@
+# Directorio local de Terraform
+.terraform/
+
+# Archivos de estado de Terraform (contienen información sensible)
+*.tfstate
+*.tfstate.*
